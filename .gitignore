@@ -1,0 +1,19 @@
+
+# Playwright
+
+**/data/*.sqlite
+**/.gitattributes
+package-lock.json
+node_modules/
+.env
+.DS_Store
+
+test-results/
+playwright-report/
+blob-report/
+.cache/
+.auth/
+
+*.sqlite-journal
+*-shm
+*-wal
